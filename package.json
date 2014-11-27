@@ -1,0 +1,24 @@
+{
+  "name": "zentrale-rss",
+  "version": "0.0.1",
+  "description": "stream RSS feed into your zentrale",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fdrei/zentrale-rss.git"
+  },
+  "keywords": [
+    "zentrale",
+    "zentralkern",
+    "rss"
+  ],
+  "author": "fdrei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdrei/zentrale-rss/issues"
+  },
+  "homepage": "https://github.com/fdrei/zentrale-rss"
+}
