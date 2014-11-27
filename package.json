@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/fdrei/zentrale-rss/issues"
   },
-  "homepage": "https://github.com/fdrei/zentrale-rss"
+  "homepage": "https://github.com/fdrei/zentrale-rss",
+  "dependencies": {
+    "feedparser": "^0.19.2",
+    "request": "^2.48.0"
+  }
 }
